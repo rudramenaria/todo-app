@@ -1,10 +1,14 @@
 # todo_app
 
-A new Flutter project.
+Todo app project build with flutter.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This is a very basic project in which i have used reorderable list view and Dismissible for giving the swipe effect and reordering the todo list items.
+For storing database i have used firebase realtime database (https://pub.dev/packages/firebase_database).
+
+
+
 
 A few resources to get you started if this is your first Flutter project:
 
